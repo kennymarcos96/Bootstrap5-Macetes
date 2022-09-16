@@ -1,0 +1,39 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-fit: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-size: 45px;
+    font-family: 'Pacifico', 'Concert One', cursiva;
+
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.bordar-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicap-imagem {
+    object-fit: cover;
+    height: 200px;
+}
